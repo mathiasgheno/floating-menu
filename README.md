@@ -1,7 +1,11 @@
 # Floating Menu
 
 ## TODO
-- [ ] Add Storybook
+- [x] Add Storybook
 - [ ] Esc for close menu
-- [ ] Click outside and close
+- [x] Click outside and close
 - [ ] Responsive for Mobile
+- [ ] Reduce Motion
+- [ ] Dark / Light Theme
+- [ ] High Contrast Theme
+- [ ] Tab order
