@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { ProfileMenuList } from '../ProfileMenuList';
 import {
   Button,
@@ -10,6 +10,13 @@ import { CarretDown } from '../Icons/CarretDown';
 
 export const ProfileFloatingMenu = ({ width }) => {
   const [ showProfileMenu, setShowProfileMenu ] = React.useState(false);
+
+  const handleEscapeKey = (event) => event.code === 'Escape' && setShowProfileMenu(false);
+
+  useEffect(() => {
+    window.addEventListener('keydown', handleEscapeKey);
+    return () => window.removeEventListener('keydown', handleEscapeKey);
+  }, []);
 
   return (
     <Wrapper>
