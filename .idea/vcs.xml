@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../transition-page-vanilla" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../vanilla-modal" vcs="Git" />
   </component>
 </project>
