@@ -12,5 +12,6 @@
     <orderEntry type="module" module-name="brazilian-react-inputs" />
     <orderEntry type="module" module-name="transition-page-vanilla" />
     <orderEntry type="module" module-name="vanilla-modal" />
+    <orderEntry type="module" module-name="lerna-update-latest" />
   </component>
 </module>

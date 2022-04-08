@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../brazilian-react-inputs/.idea/brazilian-react-inputs.iml" filepath="$PROJECT_DIR$/../brazilian-react-inputs/.idea/brazilian-react-inputs.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/floating-menu.iml" filepath="$PROJECT_DIR$/.idea/floating-menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lerna-update-latest/.idea/lerna-update-latest.iml" filepath="$PROJECT_DIR$/../lerna-update-latest/.idea/lerna-update-latest.iml" />
       <module fileurl="file://$PROJECT_DIR$/../transition-page-vanilla/.idea/transition-page-vanilla.iml" filepath="$PROJECT_DIR$/../transition-page-vanilla/.idea/transition-page-vanilla.iml" />
       <module fileurl="file://$PROJECT_DIR$/../vanilla-modal/.idea/vanilla-modal.iml" filepath="$PROJECT_DIR$/../vanilla-modal/.idea/vanilla-modal.iml" />
     </modules>
